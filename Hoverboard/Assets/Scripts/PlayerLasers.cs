@@ -27,6 +27,13 @@ public class PlayerLasers : MonoBehaviour
 
     List<LaserRelay> relays = new List<LaserRelay>();
 
+    List<ParticleSystem> laserPartciles = new List<ParticleSystem>();
+
+    [SerializeField] ParticleSystem laserParticle;
+    [SerializeField] ParticleSystem teleportParticle;
+
+    [SerializeField] ParticleSystem colisionParticle;
+
     private void Update()
     {
         MyInputs();
@@ -49,6 +56,8 @@ public class PlayerLasers : MonoBehaviour
     {
         if (!teleport)
         {
+            if(!teleportParticle.isPlaying)
+                teleportParticle.Play();
             holdingRight = true;
             teleportsPoints.Clear();
             teleportRenderer.positionCount = 1;
@@ -57,6 +66,7 @@ public class PlayerLasers : MonoBehaviour
         }
         else
         {
+            teleportParticle.Stop();
             holdingRight = false;
             teleportsPoints.Clear();
             RecursiveHitDistance(teleportRenderer, origin.position, Camera.main.transform.forward, teleportDistance, 1, teleportsPoints);
@@ -70,15 +80,23 @@ public class PlayerLasers : MonoBehaviour
     {
         if (!place)
         {
+            if(!laserParticle.isPlaying)
+                laserParticle.Play();
             holdingLeft = true;
             laserPoints.Clear();
             laserRenderer.positionCount = 1;
             laserRenderer.SetPosition(0, origin.position);
             laserRenderer.material = laserPreviewMat;
             RecursiveHit(laserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, false);
+
+            if(laserPartciles.Count > 0)
+                foreach(var part in laserPartciles)
+                    Destroy(part);
+            laserPartciles.Clear();
         }
         else
         {
+            laserParticle.Stop();
             holdingLeft = false;
             laserPoints.Clear();
             laserRenderer.positionCount = 1;
@@ -90,6 +108,9 @@ public class PlayerLasers : MonoBehaviour
             relays.Clear();
 
             RecursiveHit(laserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, true);
+
+            foreach (var p in laserPoints)
+                laserPartciles.Add(Instantiate(colisionParticle, p, Quaternion.identity));
         }
     }
 
