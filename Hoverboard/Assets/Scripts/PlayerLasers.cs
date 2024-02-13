@@ -27,7 +27,7 @@ public class PlayerLasers : MonoBehaviour
 
     List<LaserRelay> relays = new List<LaserRelay>();
 
-    List<ParticleSystem> laserPartciles = new List<ParticleSystem>();
+    List<ParticleSystem> laserParticlesList = new List<ParticleSystem>();
 
     [SerializeField] ParticleSystem laserParticle;
     [SerializeField] ParticleSystem teleportParticle;
@@ -89,10 +89,10 @@ public class PlayerLasers : MonoBehaviour
             laserRenderer.material = laserPreviewMat;
             RecursiveHit(laserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, false);
 
-            if(laserPartciles.Count > 0)
-                foreach(var part in laserPartciles)
+            if(laserParticlesList.Count > 0)
+                foreach(var part in laserParticlesList)
                     Destroy(part);
-            laserPartciles.Clear();
+            laserParticlesList.Clear();
         }
         else
         {
@@ -110,7 +110,7 @@ public class PlayerLasers : MonoBehaviour
             RecursiveHit(laserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, true);
 
             foreach (var p in laserPoints)
-                laserPartciles.Add(Instantiate(colisionParticle, p, Quaternion.identity));
+                laserParticlesList.Add(Instantiate(colisionParticle, p, Quaternion.identity));
         }
     }
 
