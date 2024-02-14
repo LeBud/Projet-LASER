@@ -34,6 +34,7 @@ public class PlayerLasers : MonoBehaviour
 
     [SerializeField] ParticleSystem colisionParticle;
 
+    ParticleSystem laserPortalParticle;
     private void Update()
     {
         MyInputs();
@@ -93,6 +94,8 @@ public class PlayerLasers : MonoBehaviour
                 foreach(var part in laserParticlesList)
                     Destroy(part);
             laserParticlesList.Clear();
+            if(laserPortalParticle != null)
+                Destroy(laserPortalParticle);
         }
         else
         {
@@ -111,6 +114,9 @@ public class PlayerLasers : MonoBehaviour
 
             foreach (var p in laserPoints)
                 laserParticlesList.Add(Instantiate(colisionParticle, p, Quaternion.identity));
+
+            laserPortalParticle = Instantiate(laserParticle, laserRenderer.GetPosition(0), Camera.main.transform.rotation);
+            laserPortalParticle.Play();
         }
     }
 
