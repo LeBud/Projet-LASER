@@ -785,6 +785,80 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 39308764}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &40412950
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.64
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 22.64
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000014603138
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &40412951 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 40412950}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &54963332
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -864,6 +938,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 54963332}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &55057877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.313
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.87
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.54
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &55057878 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 55057877}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &56687894
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -942,6 +1090,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 56687894}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &70010894
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.26
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 45.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &70010895 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 70010894}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &70998071
 GameObject:
@@ -1466,6 +1688,154 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90795576}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &92534896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.292
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50.56
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029504295
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Corner (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05b6dd3ae3cbcc047af04be5280fb4d8, type: 3}
+--- !u!4 &92534897 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+    type: 3}
+  m_PrefabInstance: {fileID: 92534896}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &102638164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.448051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.35
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &102638165 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 102638164}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &103180645
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2004,6 +2374,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 125972766}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &137536534
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.42
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 49.69
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &137536535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 137536534}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &138340626
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2344,6 +2788,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 155736967}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &160929430
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 55.27
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (32)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &160929431 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 160929430}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &161736473
 GameObject:
@@ -3601,6 +4119,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 242124392}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &247072718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.97
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &247072719 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 247072718}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &250176898
 PrefabInstance:
@@ -5837,6 +6429,80 @@ Transform:
   - {fileID: 859566915}
   m_Father: {fileID: 312493032}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &357830053
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.46
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 46.39
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &357830054 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 357830053}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &360429570
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6606,6 +7272,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7004444069326186887, guid: 6a09a7307b0be3844818bb53d199d331,
     type: 3}
   m_PrefabInstance: {fileID: 433815490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &434290795
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.448051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.734
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 15.132
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &434290796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 434290795}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &440843627
 GameObject:
@@ -7659,6 +8399,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 497633534}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &519467992
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.4900002
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 49.69
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &519467993 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 519467992}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &528210397
 GameObject:
   m_ObjectHideFlags: 0
@@ -7905,6 +8719,154 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7004444069326186887, guid: 6a09a7307b0be3844818bb53d199d331,
     type: 3}
   m_PrefabInstance: {fileID: 533790423}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &534067161
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.448051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.702
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 36.031998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &534067162 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 534067161}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &540076812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.99
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &540076813 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 540076812}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &543639643
 PrefabInstance:
@@ -8895,6 +9857,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 619136663}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &636976067
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.28
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 43.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &636976068 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 636976067}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &640725731
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9196,6 +10232,75 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 662576869}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &666607432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 666607433}
+  m_Layer: 0
+  m_Name: Vines
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &666607433
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666607432}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1118926130}
+  - {fileID: 1306465658}
+  - {fileID: 247072719}
+  - {fileID: 1426464035}
+  - {fileID: 434290796}
+  - {fileID: 55057878}
+  - {fileID: 715013932}
+  - {fileID: 1099523479}
+  - {fileID: 102638165}
+  - {fileID: 818126955}
+  - {fileID: 1855948074}
+  - {fileID: 2126289613}
+  - {fileID: 40412951}
+  - {fileID: 534067162}
+  - {fileID: 2144742646}
+  - {fileID: 1485084051}
+  - {fileID: 992400578}
+  - {fileID: 1498486285}
+  - {fileID: 893404144}
+  - {fileID: 1857610023}
+  - {fileID: 137536535}
+  - {fileID: 1710052998}
+  - {fileID: 636976068}
+  - {fileID: 2056645572}
+  - {fileID: 1741978899}
+  - {fileID: 2126053775}
+  - {fileID: 1968137232}
+  - {fileID: 1284465170}
+  - {fileID: 357830054}
+  - {fileID: 160929431}
+  - {fileID: 964586924}
+  - {fileID: 540076813}
+  - {fileID: 70010895}
+  - {fileID: 519467993}
+  - {fileID: 774779489}
+  - {fileID: 1248236605}
+  - {fileID: 92534897}
+  - {fileID: 1640641602}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &678139259
 GameObject:
   m_ObjectHideFlags: 0
@@ -9559,6 +10664,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 714613163}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &715013931
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.937
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.87
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.54
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &715013932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 715013931}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &717746191
 GameObject:
@@ -10460,6 +11639,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 766651084}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &774779488
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.505
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &774779489 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 774779488}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &789921453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11115,6 +12368,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 816190169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &818126954
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.43
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &818126955 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 818126954}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &820072240
 PrefabInstance:
@@ -12522,6 +13849,80 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 890164374}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &893404143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.07
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.23
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.505
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &893404144 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 893404143}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &902552240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13227,6 +14628,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1628280428982170580, guid: e05487ae41c1f8e40993efa42eeab2d6,
     type: 3}
   m_PrefabInstance: {fileID: 36518097}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &964586923
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (33)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &964586924 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 964586923}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &965021805
 GameObject:
@@ -14107,6 +15582,80 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a717c783183d1e541bdb122399f612bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &992400577
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.604
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.505
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &992400578 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 992400577}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &994721399
 GameObject:
   m_ObjectHideFlags: 0
@@ -15249,6 +16798,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 823635021}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1099523478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.448051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.48
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1099523479 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1099523478}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1109745050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15322,6 +16945,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7004444069326186887, guid: 6a09a7307b0be3844818bb53d199d331,
     type: 3}
   m_PrefabInstance: {fileID: 1109745050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1118926129
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.448051
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.734
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.132
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1118926130 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1118926129}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1119925072
 PrefabInstance:
@@ -17245,6 +18942,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1246541541}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1248236604
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.14
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 50.789
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Corner
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05b6dd3ae3cbcc047af04be5280fb4d8, type: 3}
+--- !u!4 &1248236605 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1248236604}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1249677226
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17857,6 +19628,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1284332597}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1284465169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.2100015
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.56
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 40.650013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000014603138
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1284465170 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1284465169}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1297554070
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17930,6 +19775,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7004444069326186887, guid: 6a09a7307b0be3844818bb53d199d331,
     type: 3}
   m_PrefabInstance: {fileID: 1297554070}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1306465657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.43
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1306465658 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1306465657}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1309437011
 PrefabInstance:
@@ -23160,6 +25079,80 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45f8faed66439714fb5f786121289431, type: 3}
+--- !u!1001 &1426464034
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.82
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.07
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.64
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000014603138
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1426464035 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1426464034}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1432378099
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24269,6 +26262,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1480622733}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1485084050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37.44
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1485084051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1485084050}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1487069262
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24416,6 +26483,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7004444069326186887, guid: 6a09a7307b0be3844818bb53d199d331,
     type: 3}
   m_PrefabInstance: {fileID: 1491977013}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1498486284
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.505
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (30)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1498486285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1498486284}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1502043499
 PrefabInstance:
@@ -25788,6 +27929,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1622360815}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1640641601
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.057
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000029504295
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Corner (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05b6dd3ae3cbcc047af04be5280fb4d8, type: 3}
+--- !u!4 &1640641602 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 05b6dd3ae3cbcc047af04be5280fb4d8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1640641601}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1644389959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26522,6 +28737,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1709492137}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1710052997
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 53.04
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (34)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1710052998 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1710052997}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1713682912
 GameObject:
   m_ObjectHideFlags: 0
@@ -26872,6 +29161,80 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1001 &1741978898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.55
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1741978899 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1741978898}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1760536525
 GameObject:
   m_ObjectHideFlags: 0
@@ -28379,6 +30742,154 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1854172388}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1855948073
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.95
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1855948074 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1855948073}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1857610022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.23
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 61.505
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1857610023 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1857610022}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1858319759
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29577,6 +32088,80 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1965259749}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1968137231
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.6099987
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.8199997
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 40.65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000014603138
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (28)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &1968137232 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1968137231}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1969461857
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30658,6 +33243,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7535209871281452715, guid: e32fcc0c1465fa341ae0bae2d1d71fd1,
     type: 3}
   m_PrefabInstance: {fileID: 2054462515}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2056645571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3500001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 43.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071079
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &2056645572 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2056645571}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2058528708
 PrefabInstance:
@@ -31950,6 +34609,154 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2125035384}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2126053774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.35
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 40.65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000014603138
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &2126053775 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2126053774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2126289612
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.97
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &2126289613 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2126289612}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2140697405
 GameObject:
   m_ObjectHideFlags: 0
@@ -32223,6 +35030,80 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1001 &2144742645
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 666607433}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.313
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.9809995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37.44
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ed30c20b153a3874f9969fca5728f44b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging Luna Vine Wall (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed30c20b153a3874f9969fca5728f44b, type: 3}
+--- !u!4 &2144742646 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed30c20b153a3874f9969fca5728f44b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2144742645}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &283314444468677866 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1628280428982170580, guid: e05487ae41c1f8e40993efa42eeab2d6,
@@ -32525,3 +35406,4 @@ SceneRoots:
   - {fileID: 375814209}
   - {fileID: 866950034}
   - {fileID: 1858645502}
+  - {fileID: 666607433}
