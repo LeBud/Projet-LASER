@@ -5092,7 +5092,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ea13819741bb3454e8cc253090eaabe1, type: 2}
+  - {fileID: 2100000, guid: f74a320ea7785244c865ce5c821c555f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5691,7 +5691,7 @@ MonoBehaviour:
   teleportRenderer: {fileID: 4705418246103206714}
   laserRenderer: {fileID: 6229211117404124399}
   origin: {fileID: 8884642348367866590}
-  teleportDistance: 60
+  teleportDistance: 10
   maxReflection: 10
   laserPreviewMat: {fileID: 2100000, guid: 691fca238be55364280ab0c7d52f4e25, type: 2}
   laserPlaceMat: {fileID: 2100000, guid: c651439e056ac9a47aebc30838b73054, type: 2}
