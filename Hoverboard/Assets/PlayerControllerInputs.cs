@@ -71,6 +71,15 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Pause"",
+                    ""type"": ""PassThrough"",
+                    ""id"": ""51c85588-e8cf-4d34-8658-b905d430e052"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -172,6 +181,17 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
                     ""action"": ""Laser"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""9539b1e2-1570-434c-bd40-41efec208551"",
+                    ""path"": ""<Keyboard>/escape"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Pause"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -185,6 +205,7 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
         m_Player_Mouse = m_Player.FindAction("Mouse", throwIfNotFound: true);
         m_Player_Teleport = m_Player.FindAction("Teleport", throwIfNotFound: true);
         m_Player_Laser = m_Player.FindAction("Laser", throwIfNotFound: true);
+        m_Player_Pause = m_Player.FindAction("Pause", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -251,6 +272,7 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
     private readonly InputAction m_Player_Mouse;
     private readonly InputAction m_Player_Teleport;
     private readonly InputAction m_Player_Laser;
+    private readonly InputAction m_Player_Pause;
     public struct PlayerActions
     {
         private @PlayerControllerInputs m_Wrapper;
@@ -260,6 +282,7 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
         public InputAction @Mouse => m_Wrapper.m_Player_Mouse;
         public InputAction @Teleport => m_Wrapper.m_Player_Teleport;
         public InputAction @Laser => m_Wrapper.m_Player_Laser;
+        public InputAction @Pause => m_Wrapper.m_Player_Pause;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -284,6 +307,9 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
             @Laser.started += instance.OnLaser;
             @Laser.performed += instance.OnLaser;
             @Laser.canceled += instance.OnLaser;
+            @Pause.started += instance.OnPause;
+            @Pause.performed += instance.OnPause;
+            @Pause.canceled += instance.OnPause;
         }
 
         private void UnregisterCallbacks(IPlayerActions instance)
@@ -303,6 +329,9 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
             @Laser.started -= instance.OnLaser;
             @Laser.performed -= instance.OnLaser;
             @Laser.canceled -= instance.OnLaser;
+            @Pause.started -= instance.OnPause;
+            @Pause.performed -= instance.OnPause;
+            @Pause.canceled -= instance.OnPause;
         }
 
         public void RemoveCallbacks(IPlayerActions instance)
@@ -327,5 +356,6 @@ public partial class @PlayerControllerInputs: IInputActionCollection2, IDisposab
         void OnMouse(InputAction.CallbackContext context);
         void OnTeleport(InputAction.CallbackContext context);
         void OnLaser(InputAction.CallbackContext context);
+        void OnPause(InputAction.CallbackContext context);
     }
 }

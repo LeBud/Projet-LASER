@@ -47,6 +47,8 @@ public class PlayerLasers : MonoBehaviour
 
     private void Update()
     {
+        if(PauseMenu.IsPaused) return;
+
         MyInputs();
     }
 

@@ -9,7 +9,7 @@ public class InputsBrain : MonoBehaviour
 
     PlayerControllerInputs inputs;
     [HideInInspector]
-    public InputAction move, mouse, jump, teleport, laser;
+    public InputAction move, mouse, jump, teleport, laser, pause;
 
     private void Awake()
     {
@@ -26,6 +26,7 @@ public class InputsBrain : MonoBehaviour
         mouse = inputs.Player.Mouse;
         teleport = inputs.Player.Teleport; 
         laser = inputs.Player.Laser;
+        pause = inputs.Player.Pause;
 
         inputs.Enable();
     }

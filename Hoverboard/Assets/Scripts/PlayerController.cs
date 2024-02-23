@@ -86,6 +86,8 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (PauseMenu.IsPaused) return;
+
         MyInputs();
         CheckMethods();
         ControlDrag();
