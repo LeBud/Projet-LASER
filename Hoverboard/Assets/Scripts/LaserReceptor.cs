@@ -15,13 +15,16 @@ public class LaserReceptor : MonoBehaviour
     [SerializeField] Material notActivatedMat;
     [SerializeField] Material activatedMat;
 
+    [SerializeField] AudioClip openSound;
+
     bool isCompleted = false;
 
-
+    AudioSource audio;
 
     private void Start()
     {
         mesh = GetComponent<MeshRenderer>();
+        audio = GetComponent<AudioSource>();
     }
 
     public void Receptor()
@@ -53,6 +56,7 @@ public class LaserReceptor : MonoBehaviour
         foreach (var relay in laserRelays.Where(r => r.isActivated))
             relay.receptorActivated = true;
 
+        audio.PlayOneShot(openSound);
         mesh.material = activatedMat;
         isCompleted = true;
         doorObject.SetActive(false);

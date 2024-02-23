@@ -19,6 +19,10 @@ public class PlayerLasers : MonoBehaviour
     [SerializeField] Material laserPreviewMat;
     [SerializeField] Material laserPlaceMat;
 
+    AudioSource audioSource;
+    [Header("Audio")]
+    [SerializeField] AudioClip laserShotSound, teleportSound;
+
     List<Vector3> teleportsPoints = new List<Vector3>();
     List<Vector3> laserPoints = new List<Vector3>();
 
@@ -35,6 +39,12 @@ public class PlayerLasers : MonoBehaviour
     [SerializeField] ParticleSystem colisionParticle;
 
     ParticleSystem laserPortalParticle;
+
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
     private void Update()
     {
         MyInputs();
@@ -59,6 +69,9 @@ public class PlayerLasers : MonoBehaviour
         {
             if(!teleportParticle.isPlaying)
                 teleportParticle.Play();
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+
             holdingRight = true;
             teleportsPoints.Clear();
             teleportRenderer.positionCount = 1;
@@ -67,6 +80,8 @@ public class PlayerLasers : MonoBehaviour
         }
         else
         {
+            audioSource.Stop();
+            audioSource.PlayOneShot(teleportSound);
             teleportParticle.Stop();
             holdingRight = false;
             teleportsPoints.Clear();
@@ -83,6 +98,9 @@ public class PlayerLasers : MonoBehaviour
         {
             if(!laserParticle.isPlaying)
                 laserParticle.Play();
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+
             holdingLeft = true;
             laserPoints.Clear();
             laserRenderer.positionCount = 1;
@@ -99,6 +117,8 @@ public class PlayerLasers : MonoBehaviour
         }
         else
         {
+            audioSource.Stop();
+            audioSource.PlayOneShot(laserShotSound);
             laserParticle.Stop();
             holdingLeft = false;
             laserPoints.Clear();
