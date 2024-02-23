@@ -16,11 +16,7 @@ public class PauseMenu : MonoBehaviour
         {
             if(IsPaused)
             {
-                Time.timeScale = 1.0f;
-                IsPaused = false;
-                Cursor.lockState = CursorLockMode.Locked;
-                Cursor.visible = false;
-                pausePanel.SetActive(false);
+                UnPauseBtt();
             }
             else
             {

@@ -115,7 +115,7 @@ Material:
     - _GlossyReflections: 0
     - _IOR: 0.002
     - _LaserSpeed: 1
-    - _Metallic: 0.7
+    - _Metallic: 0.2
     - _NoiseScale: 5
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -123,7 +123,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _RelfectionStrenght: 0.1
-    - _Smoothness: 0.2
+    - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
