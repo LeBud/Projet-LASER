@@ -10528,7 +10528,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 320
   downForceOnSlope: 80
-  maxSlopeAngle: 45
+  maxSlopeAngle: 55
   playerHeight: 2
   playerMoveDir: {x: 0, y: 0, z: 0}
 --- !u!114 &3962586946813273988
