@@ -10,7 +10,7 @@ public class LaserReceptor : MonoBehaviour
     [SerializeField] bool needRelay = true;
     [SerializeField] List<LaserRelay> laserRelays = new List<LaserRelay>();
 
-    [SerializeField] GameObject doorObject;
+    [SerializeField] Animator doorObject;
 
     [SerializeField] Material notActivatedMat;
     [SerializeField] Material activatedMat;
@@ -59,6 +59,6 @@ public class LaserReceptor : MonoBehaviour
         audio.PlayOneShot(openSound);
         mesh.material = activatedMat;
         isCompleted = true;
-        doorObject.SetActive(false);
+        doorObject.Play("Open");
     }
 }
