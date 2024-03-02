@@ -9,6 +9,7 @@ public class PlayerLasers : MonoBehaviour
     [Header("Line Renderer")]
     [SerializeField] LineRenderer teleportRenderer;
     [SerializeField] LineRenderer laserRenderer;
+    [SerializeField] LineRenderer previewlaserRenderer;
 
     [Header("Settings")]
     [SerializeField] Transform origin;
@@ -105,10 +106,10 @@ public class PlayerLasers : MonoBehaviour
 
             holdingLeft = true;
             laserPoints.Clear();
-            laserRenderer.positionCount = 1;
-            laserRenderer.SetPosition(0, origin.position);
-            laserRenderer.material = laserPreviewMat;
-            RecursiveHit(laserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, false);
+            previewlaserRenderer.positionCount = 1;
+            previewlaserRenderer.SetPosition(0, origin.position);
+            previewlaserRenderer.material = laserPreviewMat;
+            RecursiveHit(previewlaserRenderer, origin.position, Camera.main.transform.forward, maxReflection, 1, laserPoints, false);
 
             if(laserParticlesList.Count > 0)
                 foreach(var part in laserParticlesList)
