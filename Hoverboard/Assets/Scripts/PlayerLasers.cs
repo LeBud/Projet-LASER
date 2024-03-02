@@ -90,8 +90,8 @@ public class PlayerLasers : MonoBehaviour
             teleportsPoints.Clear();
             RecursiveHitDistance(teleportRenderer, origin.position, Camera.main.transform.forward, teleportDistance, 1, teleportsPoints);
             Vector3 tpPos = teleportsPoints[teleportsPoints.Count - 1];
-            transform.position = new Vector3(tpPos.x, tpPos.y + 1, tpPos.z);
             teleportRenderer.positionCount = 0;
+            transform.position = new Vector3(tpPos.x, tpPos.y + 1, tpPos.z);
         }
     }
 
