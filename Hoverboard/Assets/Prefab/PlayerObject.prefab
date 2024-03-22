@@ -5759,9 +5759,6 @@ MonoBehaviour:
   amount: 0.1
   maxAmount: 0.3
   smoothAmount: 4
-  dashAmount: 0.1
-  dashMaxAmount: 0.4
-  dashAmountSmooth: 6
   rotAmount: 2
   maxRotAmount: 15
   smoothRot: 5
@@ -7111,17 +7108,17 @@ MonoBehaviour:
   playerDir: {fileID: 2779577282979578301}
   camTilt: 1
   camTiltTime: 5
-  playerSpeed: 8
+  playerSpeed: 5
   movementMult: 8
   groundDrag: 6
-  jumpForce: 18
-  playerAirSpeed: 7
+  jumpForce: 10
+  playerAirSpeed: 4
   airMovementMult: 0.5
-  airDrag: 2
+  airDrag: 3
   jumpBufferTime: 0.2
   coyoteTime: 0.1
   maxFallSpeed: 40
-  fallSpeedAccel: 35
+  fallSpeedAccel: 15
   feetPos: {fileID: 7436193287466302615}
   feetSize: {x: 0.45, y: 0.05, z: 0.45}
   groundLayer:
