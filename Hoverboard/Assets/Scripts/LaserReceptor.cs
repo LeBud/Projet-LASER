@@ -60,5 +60,6 @@ public class LaserReceptor : MonoBehaviour
         mesh.material = activatedMat;
         isCompleted = true;
         doorObject.Play("Open");
+        doorObject.GetComponent<AudioSource>().Play();
     }
 }

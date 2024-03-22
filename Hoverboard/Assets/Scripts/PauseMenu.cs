@@ -41,6 +41,8 @@ public class PauseMenu : MonoBehaviour
     public void GoToMenu()
     {
         UnPauseBtt();
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         SceneManager.LoadScene(0);
     }
 }
