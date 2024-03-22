@@ -76,7 +76,6 @@ public class PlayerLasers : MonoBehaviour
                 audioSource.Play();
 
             holdingRight = true;
-            teleportsPoints.Clear();
             teleportRenderer.positionCount = 1;
             teleportRenderer.SetPosition(0, origin.position);
             RecursiveHitDistance(teleportRenderer, origin.position, Camera.main.transform.forward, teleportDistance, 1, teleportsPoints);

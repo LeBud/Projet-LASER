@@ -137,7 +137,7 @@ Material:
     - _ZWrite: 1
     - _hightFrequency: 10
     - _scale: 4
-    - _speed: 0.01
+    - _speed: 0.025
     - _waveAmplitude: 0.05
     - _waveSpeed: 2
     m_Colors:
