@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ThridLD.unity
     guid: 25c7203a7ff63ac42b92994a40c1f392
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 830f0329cf8d0ca45996b7fc9d24bcd5
   m_configObjects: {}
