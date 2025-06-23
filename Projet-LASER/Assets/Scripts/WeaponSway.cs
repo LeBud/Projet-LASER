@@ -82,12 +82,12 @@ public class WeaponSway : MonoBehaviour
 
         float moveXInput = Mathf.Clamp(horImput * amount, -maxAmount, maxAmount);
         float moveZInput = Mathf.Clamp(verImput * amount, -maxAmount, maxAmount);
-        float moveYInput = Mathf.Clamp(Mathf.Clamp(-PlayerController.Instance.rb.velocity.y, -1, 1) * amount, -maxAmount, maxAmount);
+        float moveYInput = Mathf.Clamp(Mathf.Clamp(-PlayerController.Instance.rb.linearVelocity.y, -1, 1) * amount, -maxAmount, maxAmount);
 
         Vector3 finalPositionInput = new Vector3(moveXInput, moveYInput, moveZInput);
 
         bobPos.x = (curveCos * bobLimit.x * (PlayerController.Instance.IsGrounded() ? 1 : 0)) - (horImput * travelLimit.x);
-        bobPos.y = (curveSin * bobLimit.y) - Mathf.Clamp(PlayerController.Instance.rb.velocity.y, -1, 1) * travelLimit.y;
+        bobPos.y = (curveSin * bobLimit.y) - Mathf.Clamp(PlayerController.Instance.rb.linearVelocity.y, -1, 1) * travelLimit.y;
         bobPos.z = -(verImput * travelLimit.z);
 
         newCalculatePos = finalPosition + finalPositionInput + bobPos + initPosition + dashPos;
@@ -98,7 +98,7 @@ public class WeaponSway : MonoBehaviour
 
         Quaternion finalRotation = Quaternion.Euler(new Vector3(-tiltX, 0f, tiltY));
 
-        speedCurve += Time.deltaTime * (PlayerController.Instance.IsGrounded() ? PlayerController.Instance.rb.velocity.magnitude / 2 : 1f) + 0.01f;
+        speedCurve += Time.deltaTime * (PlayerController.Instance.IsGrounded() ? PlayerController.Instance.rb.linearVelocity.magnitude / 2 : 1f) + 0.01f;
 
         bobEulerRot.x = InputsBrain.Instance.move.ReadValue<Vector2>() != Vector2.zero ? multplier.x * Mathf.Sin(2 * speedCurve) : multplier.x * (Mathf.Sin(2 * speedCurve) / 2);
         bobEulerRot.y = InputsBrain.Instance.move.ReadValue<Vector2>() != Vector2.zero ? multplier.y * curveCos : 0;

@@ -48,7 +48,7 @@ public class CameraController : MonoBehaviour
         cam.transform.position = camPos.position;
         cam.transform.rotation = Quaternion.Euler(xRotation, yRotation, 0);
 
-        actualDistance = Mathf.SmoothStep(actualDistance, camDistance + hb.rb.velocity.magnitude * .1f, 10 * Time.deltaTime);
+        actualDistance = Mathf.SmoothStep(actualDistance, camDistance + hb.rb.linearVelocity.magnitude * .1f, 10 * Time.deltaTime);
         if (actualDistance > camMaxDistance) actualDistance = camMaxDistance;
     }
 

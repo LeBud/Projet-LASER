@@ -158,8 +158,8 @@ public class PlayerController : MonoBehaviour
 
         float force = jumpForce;
 
-        if(rb.velocity.y < 0)
-            force -= rb.velocity.y;
+        if(rb.linearVelocity.y < 0)
+            force -= rb.linearVelocity.y;
         
         rb.AddForce(Vector3.up * force, ForceMode.Impulse);
     }
@@ -175,9 +175,9 @@ public class PlayerController : MonoBehaviour
     void ControlDrag()
     {
         if (IsGrounded())
-            rb.drag = groundDrag;
+            rb.linearDamping = groundDrag;
         else
-            rb.drag = airDrag;
+            rb.linearDamping = airDrag;
     }
 
     void MovePlayer()
